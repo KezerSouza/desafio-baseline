@@ -1,4 +1,4 @@
-# Programa para somar números
+# Programa para somar números - v.1.0.1
 
 ## Guia como utilizar
 
